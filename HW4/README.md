@@ -10,3 +10,6 @@ For T O(n), THE IMPORTANT THING IS TO FIND A WAY TO STORE THE REPEATED TIMES? AD
 
 A new way to consider, remember.
 
+# tips
+
+An important thing to learn is how to do comments appropriately. 
