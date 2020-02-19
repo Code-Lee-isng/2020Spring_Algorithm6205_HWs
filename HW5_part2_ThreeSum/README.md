@@ -14,6 +14,8 @@ Store it in HashMap, using it to find the third element. Since getint element is
 
 # Two pointers
 
+T, O(n^2), S, O(1).
+
 Refer to repositories LeetCode 001 Two Sum. Also, with left = 0, we can use binary search to find where the right position is.
 
 # Optimization
